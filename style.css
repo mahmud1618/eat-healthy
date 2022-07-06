@@ -1,0 +1,110 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.flexible {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+    padding: 5%;
+}
+
+.half-width img {
+    width: 100%
+}
+
+.padding {
+    padding-bottom: 20px;
+}
+
+#fonf-size {
+    font-size: 50px;
+}
+
+.orange-colour {
+    color: orange;
+}
+
+.color-darkslategray {
+    color: darkslategray;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(tomato, orangered);
+    background-color: orangered;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    font-weight: 700;
+    padding: 15px 25px;
+    border-radius: 25px;
+}
+
+#bottom-1 {
+    padding-bottom: 30px;
+}
+
+#bottom-2 {
+    padding-bottom: 50px;
+}
+
+#background-banner-1 {
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+}
+
+.text-align {
+    text-align: center;
+}
+
+.text-align-1 {
+    text-align: center;
+}
+
+.box {
+    text-align: justify;
+    padding: 20px 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
+}
+
+.orange {
+    color: orangered;
+}
+
+.eat-fish {
+    text-align: center;
+}
+
+.white-color {
+    color: white;
+}
+
+footer {
+    background-color: black;
+    text-align: center;
+    padding-bottom: 50px;
+
+
+}
+
+.flexible-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+#main-div {
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 80px;
+    padding-bottom: 80;
+    border: 5px;
+    border-radius: 10;
+    box-shadow: 10px 10px 40px gray;
+
+}
